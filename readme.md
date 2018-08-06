@@ -1,7 +1,7 @@
-# my machine learn notebook
+my machine learn notebook
+===========================
+
+## [math learn](/note)
 
 
-## [math learn](./notebook)
-
-
-## [coding](./code)
+## [coding](/code)
